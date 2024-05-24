@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/65e46557e2854a76ac5ea62782aaf87c/artifacts
+end_time: 1716143801646
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65e46557e2854a76ac5ea62782aaf87c
+run_name: dashing-shoat-502
+run_uuid: 65e46557e2854a76ac5ea62782aaf87c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716143244003
+status: 4
+tags: []
+user_id: tanks

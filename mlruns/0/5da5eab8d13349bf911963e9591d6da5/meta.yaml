@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5da5eab8d13349bf911963e9591d6da5/artifacts
+end_time: 1716145118585
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5da5eab8d13349bf911963e9591d6da5
+run_name: carefree-snake-526
+run_uuid: 5da5eab8d13349bf911963e9591d6da5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716144539546
+status: 3
+tags: []
+user_id: tanks
